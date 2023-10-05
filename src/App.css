@@ -1,0 +1,9 @@
+body{
+  background-color: rgba(188, 226, 248, 0.805);
+}
+h1{
+  color: rgb(4, 33, 79);
+  font: italic small-caps bold 3em cursive;
+  text-align: center;
+  text-decoration:wavy underline black 2px ;
+}
